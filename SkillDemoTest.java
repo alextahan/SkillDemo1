@@ -5,6 +5,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void testDemo() {
-        assertEquals(10, SkillDemo.strLength("hello", "Hello!"));
+        assertEquals(11, SkillDemo.strLength("hello", "Hello!"));
     }
 }
